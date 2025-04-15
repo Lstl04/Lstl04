@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi there 👋 I'm Louis Stalet<br>I'm currently a student in McGill Univeristy studying Computer Science and Statistics<br>🔭 I’m currently working on an AI Sign Language Interpreter<br>💬 Ask me about AI, LLMs, web scrapping<br>📫 How to reach me: https://www.linkedin.com/in/louisstalet/<br>🔒 My old GitHub account was hacked but you can still check it out: github.com/Lstalet04
 
 
